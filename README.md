@@ -1,0 +1,1 @@
+Digital Agriculture Hackathon code. Run streamlit streamlit_app.py to see our visualization. Follow new_test_data.csv for input fields and format structure. ML driven (see pickled XGBoost long and short horizon models).
